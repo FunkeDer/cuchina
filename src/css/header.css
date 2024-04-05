@@ -194,4 +194,8 @@
     .nav-mobile-button{
         display: none;
     }
+
+    .is-vissable{
+        right: -100%;
+    }
 }

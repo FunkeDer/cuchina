@@ -1,11 +1,11 @@
 {
-  "name": "chocolate",
+  "name": "cuchina",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/chocolate/",
+    "build": "vite build --base=/cuchina/",
     "preview": "vite preview"
   },
   "devDependencies": {
