@@ -61,7 +61,7 @@
 
     .mobile-menu-container{
         top: 0;
-        right: -100%;
+        right: -105%;
         position: fixed;
         width: 100vw;
         height: 100vh;
@@ -196,6 +196,6 @@
     }
 
     .is-vissable{
-        right: -100%;
+        right: -1200%;
     }
 }
